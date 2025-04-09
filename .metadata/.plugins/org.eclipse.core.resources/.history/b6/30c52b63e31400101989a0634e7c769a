@@ -1,0 +1,5 @@
+package semaphore.light.e27;
+
+public class AbstractLightE14 extends AbstractLight.java{
+	//nothing for a while
+}
